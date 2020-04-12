@@ -1,0 +1,5 @@
+183193	Angel	Angelovski	10	10	9	9	8
+183002	Stojan 	Stojanovski	10	9	8	7	9
+183001	Vladimir	Angelovski	6	6	7	8	7
+183007	Trajce	Risteski	10	10	10	10	10
+183123	Jovan 	Jovanov 	6	6	6	6	10
